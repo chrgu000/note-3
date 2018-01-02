@@ -1,0 +1,5 @@
+1,创建数据库
+	mysqladmin -u root -p create api_server
+
+2，删除数据库
+	mysqladmin -u root -p drop api_server

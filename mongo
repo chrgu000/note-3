@@ -1,0 +1,1 @@
+1,mongo开机自动: sudo systemctl enable mongod
