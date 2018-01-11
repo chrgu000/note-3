@@ -1,1 +1,2 @@
 1,mongo开机自动: sudo systemctl enable mongod
+2,去掉mongo开机自动: sudo systemctl disable mongod
