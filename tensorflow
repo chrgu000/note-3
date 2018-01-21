@@ -1,0 +1,8 @@
+1,特别地，你需要了解什么是生成器函数（generator），以及如何编写生成器函数。什么是匿名函数（lambda）
+
+2、tensorflow概念:
+	将计算流程表示成图；
+	通过Sessions来执行图计算；
+	将数据表示为tensors；
+	使用Variables来保持状态信息；
+	分别使用feeds和fetches来填充数据和抓取任意的操作结果；

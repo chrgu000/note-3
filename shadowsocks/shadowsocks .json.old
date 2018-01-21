@@ -1,0 +1,9 @@
+{
+    "server":"52.43.200.101",
+    "server_port":8989,
+    "local_port":"1080",
+    "password":"qw1995823917",
+    "timeout":300,
+    "method":"aes-256-cfb",
+    "fast_open":false
+}

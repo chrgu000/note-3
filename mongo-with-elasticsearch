@@ -1,0 +1,9 @@
+1,新建一个mongodb副本集
+	sudo mkdir /data/db0
+	sudo mongo --port 27017 --dbpath /data/db0 --replSet rs0
+
+2,把mongodb 数据restore到副本集
+3，把副本集内容导入elasticsearch
+	安装mongo-connector
+		sudo apt install mongo-connector[elastic5] (elasticsearch版本5)
+	mongo-connector -m localhost:27017 -t localhost:9200 -d elastic2_doc_manager

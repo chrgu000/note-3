@@ -1,0 +1,32 @@
+1, ng build --prod
+
+2, 安装apache
+	sudo apt-get install apache2
+
+3，开启防火墙ufw 允许apache
+	sudo ufw allow 'Apache Full'
+
+4，把angular2项目下的dist拷贝到服务器/var/www下，替换html
+   在html下新建.htaccess文件，输入
+	<IfModule mod_rewrite.c>
+  	  RewriteEngine On
+          RewriteBase /
+  	  RewriteRule ^index\.html$ - [L]
+  	  RewriteCond %{REQUEST_FILENAME} !-f
+  	  RewriteCond %{REQUEST_FILENAME} !-d
+  	  RewriteRule . /index.html [L]
+	</IfModule>
+
+5，运行 sudo a2enmod rewrite
+
+6，打开 /etc/apache2/sites-enabled/000-default.conf
+   在VirtualHost里加入
+	<Directory "/var/www/html">
+  	  AllowOverride All
+	</Directory>
+
+7，重启apache
+	sudo service apache2 restart
+	或
+	/etc/init.d/apache2 restart
+

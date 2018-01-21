@@ -1,0 +1,46 @@
+1, 更新
+	cnpm install -g ionic@latest
+
+2, @Page got deprecated on 2.0.0.beta.8, now @Component does the job
+
+3, ion-badge
+
+4, tool-bar: 颜色， 搜索框
+
+5， toast 提示信息
+	
+6, simplePinyin('你好 simplePinyin!', { pinyinOnly: false });
+>> ["ni", "hao", "simplePinyin", "!"]
+
+7, //页面即将进入的时候
+onPageWillEnter(){
+//在这里可以做页面初始化的一些事情
+console.log('page1:pagewillenter.');
+}
+
+//页面已经进入的时候
+onPageDidEnter(){
+console.log('page1:pagedidenter.');
+}
+
+//页面即将离开的时候
+onPageWillLeave(){
+console.log('page1:pagewillleave.');
+}
+
+//页面已经离开的时候
+onPageDidLeave(){
+console.log('page1:pagedidleave.');
+}
+
+//从DOM中移除的时候执行的生命周期
+onPageWillUnload(){
+
+}
+
+//从DOM中移除执行完成的时候
+onPageDidUnload(){
+
+}
+
+**8,ionic多个页面操作同一个（类）变量可以放在provider里面

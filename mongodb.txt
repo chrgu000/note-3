@@ -1,0 +1,98 @@
+sudo service mongod start
+1: 创建数据库
+	use db_name
+	如果数据库不存在，则创建，否则切换到指定数据库
+
+2: 删除数据库
+	db.dropDatabase(); 删除当前数据库
+
+3： 删除集合
+	db.collection.drop()
+
+4: 向集合中插入文档
+	db.COLLECTION_NAME.insert(document)
+
+5: 更新文档
+	db.COLLECTION_NAME.update({key: value},{$set:{key: value}})
+
+6: 删除文档
+	db.collection.remove()
+
+7: 条件语句查询
+	等于： db.col.find({key: value})
+	小于： db.col.find(key: {$lt: value})
+	小于等于： db.col.find(key: {$lte: value})
+	大于： db.col.find(key: {$gt: value})
+	大于等于： db.col.find(key: {$gte: value})
+	不等于： db.col.find(key: {$ne: value})
+	AND: db.col.find({key1: value1, key2: value2})
+	OR: db.col.find({$or: [{key: value}]})
+	TYPE: db.col.find({"title" : {$type : 2}})
+
+8: Limit和Skip
+	limit: db.col.find().limit(number).skip(number)
+
+9: 排序
+	db.col.find().sort({key: 1}) 1: 升序; -1: 降序
+
+10: 索引
+	db.col.ensureIndex({key1: 1, key2: -1})
+
+11: 聚合
+	db.col.aggregate([{$group: {_id: '$key', num_tutorial: {$sum: ''$likes}}}])
+	sum: 总和;  avg: 平均;  min(max): 获取集合中所有文档对应值得最小(大)值;  
+
+
+12: 查询更改嵌套对象，使用 'objectname.value': value
+
+13: 增加（减少） $inc:{key: 1(-1)}
+
+// 保存该数据对象
+animalData.save(data, callback);
+// 在 model 中查找数据
+AnimalModel.find({}, callback);
+// 在 model 中查找数据，得到第一个数据即返回
+AnimalModel.findOne({}, callback);
+// 在 model 中根据 id 查找数据，只接受一个参数
+AnimalModel.findById('obj._id', callback);
+// 在 model 中插入数据，批量，data 不需要 entity
+AnimalModel.create(data, callback);
+// 在 model 中更新数据
+AnimalModel.update(conditions, update, function(error);
+// 在 model 删除数据
+AnimalModel.remove(conditions,callback);
+// 在 model 统计数据总条数，用于做分页非常方便
+AnimalModel.count(callback);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

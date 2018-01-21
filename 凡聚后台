@@ -1,0 +1,8 @@
+rdesktop -f -a 16  -r clipbord:PRIMARYCLIPBOARD  -r disk:cdrom="/media/sky/U" -u administrator -p fanju@149BOC 114.215.183.39
+
+
+mongo localhost:45982
+
+打开服务,重启 2个fire
+
+ctrl alt enter

@@ -1,0 +1,6 @@
+1, 解压tar.xz
+	xz -d ***.tar.xz
+	tar -xvf  ***.tar
+
+2, 解决ubuntu 搜狗输入法 block-sogou-dkms问题：
+	https://mirrors.c0urier.net/linux/deepin/packages/pool/main/b/block-sogou-dkms/

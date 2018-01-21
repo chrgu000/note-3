@@ -1,0 +1,1 @@
+find . -name '*.js'( -or -name '*.type') | xargs grep -v '^$' | wc -l

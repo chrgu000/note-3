@@ -1,0 +1,33 @@
+1，安装
+	npm install -g @angular/cli
+2，创建新应用
+	ng new project-name
+3，创建组件等
+	ng generate(g) component(c) my-new-component
+	ng g component my-new-component # using the alias
+
+	# components support relative path generation
+	# if in the directory src/app/feature/ and you run
+	ng g component new-cmp
+	# your component will be generated in src/app/feature/new-cmp
+	# but if you were to run
+	ng g component ../newer-cmp
+	# your component will be generated in src/app/newer-cmp
+	# if in the directory src/app you can also run
+	ng g component feature/new-cmp
+	# and your component will be generated in src/app/feature/new-cmp
+	
+	directive, pipe, service, class, guard, interface, enum, module
+
+4,把数据访问逻辑放进ngOnInit方法中，而不是构造函数中可以提升组件的可测试性。
+
+5,this.router.navigate(['/hero', hero.id]);
+	 this.route.params
+    // (+) converts string 'id' to a number
+    .switchMap((params: Params) => this.service.getHero(+params['id']))
+    .subscribe((hero: Hero) => this.hero = hero);
+
+
+6，js删除数组里的元素
+	let index = this.coupons.indexOf(coupon);
+          this.coupons.splice(index, 1);

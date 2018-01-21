@@ -1,0 +1,6 @@
+景安 vps 用户名：366215276  密码：yao366215276,,
+     vps 系统账户：root 密码：;;;PINxixi123   ip:122.114.169.107
+
+远程DNS解析
+/etc/resolv.conf
+nameserver 8.8.8.8
