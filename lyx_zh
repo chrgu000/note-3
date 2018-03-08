@@ -1,0 +1,6 @@
+sudo mv zhfonts /usr/share/fonts
+cd /usr/share/fonts/xpfonts/
+sudo mkfontscale
+sudo mkfontdir
+sudo fc-cache -fv
+重启
