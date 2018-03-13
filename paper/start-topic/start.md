@@ -1,4 +1,4 @@
-title: Basic Example
+title: 论文开题报告
 author:
   name: 周阳
   twitter: jdan
@@ -8,8 +8,15 @@ controls: true
 
 --
 
-# Cleaver 101
-## A first look at quick HTML presentations
+# 论文开题报告
+## 答辩人: 周阳
+## 导师: 李瑞瑞
+## 班级: 计科1402
+
+--
+
+### 选题背景和意义
+
 
 --
 
