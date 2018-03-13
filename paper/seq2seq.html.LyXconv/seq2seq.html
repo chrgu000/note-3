@@ -4,7 +4,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
 <meta name="generator" content="http://www.nongnu.org/elyxer/"/>
-<meta name="create-date" content="2018-03-08"/>
+<meta name="create-date" content="2018-03-12"/>
 <link rel="stylesheet" href="http://elyxer.nongnu.org/lyx.css" type="text/css" media="all"/>
 <title>神经网络序列到序列的学习</title>
 </head>
@@ -65,19 +65,334 @@ LSTM的一个有用属性是它学习将可变长度的输入句子映射为固�
 一个简单的通用序列学习策略是将输入序列映射到一个固定大小的载体上，然后用另一个RNN将载体映射到目标序列（Cho等人[5]也采用了这种方法）。尽管原则上它可以工作，因为RNN提供了所有的相关信息，但由于长期的相关性[14，4]（图1）[16,15]，难以训练RNNs。然而，长时间的短期记忆（LSTM）[16]已知可以学习长时间的时间依赖性问题，所以在这种情况下，LSTM可能会成功。
 </div>
 <div class="Indented">
-lstm的目标是估计条件概率p（y1，...，yt’| x1，...，xt），其中（x1，...，xt）是输入序列，并且y1, . . . , yT′是它的相应输出序列，其长度可能不同于T。lstm通过首先获得由lstm的最后一个隐藏状态给出的输入序列（x1，...，xt）的固定维数表示，然后计算y1, . . . , yT′的概率，来计算该条件概率。y1, . . . , yT′具有标准的lstm-lm公式，其初始隐藏状态被设置为表示x1，...，xt<div class="formula">
+LSTM的目标是估计条件概率p（y1，...，yt’| x1，...，xt），其中（x1，...，xt）是输入序列，并且y1, . . . , yT′是它的相应输出序列，其长度可能不同于T。LSTM通过首先获得由LSTM的最后一个隐藏状态给出的输入序列（x1，...，xt）的固定维数表示，然后计算y1, . . . , yT′的概率，来计算该条件概率。y1, . . . , yT′具有标准的LSTM-lm公式，其初始隐藏状态被设置为表示x1，...，xt<div class="formula">
 <i>p</i><span class="symbol">(</span><i>y</i><sub>1</sub>, ..., <i>y</i><sub><i>T</i><sup>’</sup></sub>|<i>x</i><sub>1</sub>, ..., <i>x</i><sub><i>T</i></sub><span class="symbol">)</span> = <span class="limits"><sup class="limit"><i>T</i><sup>’</sup></sup><span class="limit">∏</span><sub class="limit"><i>t</i> = 1</sub></span><i>p</i><span class="symbol">(</span><i>y</i><sub><i>t</i></sub>|<i>v</i>, <i>y</i><sub>1</sub>, ..., <i>y</i><sub><i>t</i> − 1</sub><span class="symbol">)</span>
 </div>
-<span class="Marginal">
-<span class="formula"><span class="symbol">(</span>1<span class="symbol">)</span></span>
-</span>
 
+</div>
+<div class="Indented">
+在该等式中，词汇表中的每个词都用softmax表示每个p（yt | v，y1，...，yt-1）分布。 我们使用Graves [10]中的LSTM公式。请注意，我们需要每个句子以特殊的句尾符号“&lt;EOS&gt;”结尾，这使模型能够定义在所有可能长度的序列上的分布。总体方案如图1所示，其中所示的LSTM计算“a”，“b”，“c”，“&lt;EOS&gt;”的表示，然后用这个表示来计算“w”，“x” “y”，“z”，“&lt;EOS&gt;”。
+</div>
+<div class="Indented">
+我们的实际模型在三个重要方面与上述描述不同。首先，我们使用了两个不同的lstms：一个用于输入序列，另一个用于输出序列，因为这样可以以可忽略的计算成本增加数字模型参数，并使其自然地同时处理多个语言对上的lstm [18]。 其次，我们发现深层表现明显优于浅层，所以我们选择了四层结构。 第三，我们发现它对于改变输入句子的单词顺序非常有价值。例如，将句子a，b，c映射到句子α，β，γ，LSTM要求映射c，b，a到α，β，γ，其中α，β，γ是a，b，c的平移。这样，α接近于α，β接近于β，等等，这使得sgd可以很容易地在输入和输出之间“建立通信”。 我们发现这个简单的数据转换可以大大提升lstm的性能。
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-3">3</a> 实验
+</h1>
+<div class="Unindented">
+我们用两种方法将我们的模型应用到WMT’14英语翻译为法语的MT任务。 我们使用它直接翻译输入句子而不使用参考SMT系统，我们用它来重新排列SMT基线的最佳列表。 我们报告这些翻译方法的准确性，呈现样本翻译，并将所得到的句子表示形象化。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.1">3.1</a> 数据集详细信息
+</h2>
+<div class="Unindented">
+我们用wmt’14英语到法语数据集。 我们对包含348M法语单词和304M英文单词的12M语音子集训练了我们的模型，这是来自[29]的一个干净的“选定”子集。 我们选择了这个翻译任务和这个特定的训练集子集，因为公开提供了一个标记化的训练和测试集以及来自baselineSMT [29]的1000个最佳列表。
+</div>
+<div class="Indented">
+因为典型的神经语言模型依赖于每个单词的矢量表示，所以我们为这两种语言使用了固定的词汇表。 我们使用源语言中最频繁的单词为160,000个，目标语言中最常用的单词为80,000个。 每一个词外的单词都被一个特殊的“UNK”标记取代。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.2">3.2</a> 解码和重新编码
+</h2>
+<div class="Unindented">
+我们的实验的核心涉及在许多句子对上训练大量的深层文体。 我们通过一个给定源语S的正确翻译T的最大对数概率来训练，所以训练对象是
+</div>
+<div class="Indented">
+<div class="formula">
+1 ⁄ |<i>s</i>|<span class="limits"><sup class="limit"> </sup><span class="limit">⎲</span><span class="limit">⎳</span><sub class="limit"><span class="symbol">(</span><i>T</i>, <i>S</i><span class="symbol">)</span><i>ϵ</i><i>s</i></sub></span>log<i>p</i><span class="symbol">(</span><i>T</i>|<i>S</i><span class="symbol">)</span>
+</div>
+
+</div>
+<div class="Indented">
+s是训练集。一旦培训完成，我们根据lstm找到最可能的翻译来制作翻译：
+</div>
+<div class="Indented">
+<div class="formula">
+<i>T̂</i> = argmax<sub><i>T</i></sub><i>p</i><span class="symbol">(</span><i>T</i>|<i>S</i><span class="symbol">)</span>
+</div>
+
+</div>
+<div class="Indented">
+我们使用简单的从左到右的波束搜索解码器来搜索最可能的翻译，该解码器保持少量的部分假设，其中部分假设是某种翻译的前缀。 在每个时间步，我们用词汇表中的每个可能的词来扩展束中的每个部分假设。 这大大增加了假设的数量，所以我们根据模型的对数概率丢弃所有但几乎可能的假设。 只要“&lt;eos&gt;”符号附加到假设上，它就会从波束中移除并被添加到完整假设集合中。 而这个解码器是近似的，它的实现很简单。 有趣的是，即使光束大小为1，我们的系统也能很好地工作，而光束大小为2的光束提供了大部分光束搜索的好处（表1）。
+</div>
+<div class="Indented">
+我们还使用LSTM来重新调整由基线系统生成的1000个最佳列表[29]。 Torescore是一个n-best列表，我们用我们的LSTM计算了每个假设的对数概率，并用他们的得分和LSTM的得分取平均值。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.3">3.3</a> 颠倒源句子
+</h2>
+<div class="Unindented">
+虽然LSTM能够解决长期依赖的问题，但我们发现当源句子颠倒时（目标句子未被反转），LSTM学习得更好。 通过这样做，LSTM的测试困惑度从5.8下降到4.7，并且其解码翻译的测试BLEU成绩从25.9上升到30.6。
+</div>
+<div class="Indented">
+虽然我们对这种现象没有完整的解释，但我们认为这是由于对数据集引入了许多短期依赖性。 通常情况下，当我们将源语句与目标语句连接起来时，源语句中的每个单词与目标语句中的相应单词很远。 因此，这个问题有很大的“最小时滞”[17]。 通过反转源句子中的单词，源语言和目标语言中相应单词之间的平均距离不变。 然而，源语言中的前几个单词现在与目标语言中的前几个单词非常接近，因此该问题的最小时滞大大减少了。 因此，反向传播在源语句与目标语句之间“建立沟通”的时间较为容易，从而导致整体表现的显着改善。
+</div>
+<div class="Indented">
+最初，我们认为，逆转输入句子只会导致对目标句子早期部分的更有信心的预测，并且会导致对后面部分的不太确定的预测。然而，LSTMs对反向源语句的训练比对原语句子训练的LSTM的长句要好得多（见3.7节），这表明在LSTMs中反转输入句子的结果具有更好的内存利用率。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.4">3.4</a> 训练详细信息
+</h2>
+<div class="Unindented">
+我们发现LSTM模型相当容易培训。 我们使用了深度为4层的LSTM，每层1000个单元格和1000维的单词嵌入，输入词汇量为160,000，输出词汇量为80,000。 我们发现深层的LSTM显着优于LSTM，其中每个附加层减少了近10％的困惑，可能是由于它们的隐藏状态更大。 我们在每个输出中使用了超过80,000字的朴素软尺。 所得到的LTM具有380M参数，其中64M是纯循环连接（32M用于“编码器”LSTM和32M用于“解码器”LSTM）。详细的训练信息以下给出：
+</div>
+<ul>
+<li>
+我们用-0.08和0.08之间的均匀分布初始化了所有的参数
+</li>
+<li>
+我们使用没有动量的随机梯度下降，固定学习率为0.7。经过5个epoch后，我们没半个epoch就减少一半学习率。 我们训练了总共7.5个epoch的模型
+</li>
+<li>
+我们使用批次128个序列作为梯度，并分割批次的大小（即128）。
+</li>
+<li>
+虽然LSTM倾向于不受渐变梯度问题的困扰，但它们可以有渐变梯度。 因此，我们通过在其范数超出阈值时对其进行缩放来对梯度的范数[10,25]施加严格约束。对于每个训练批次，我们计算<span class="formula"><i>s</i> = ||<i>g</i>||<sub>2</sub></span>，g是梯度除以128。如果<span class="formula"><i>s</i> &gt; 5</span>，我们设置<span class="formula"><i>g</i> = <span class="fraction"><span class="ignored">(</span><span class="numerator">5<i>g</i></span><span class="ignored">)/(</span><span class="denominator"><i>s</i></span><span class="ignored">)</span></span></span>。
+</li>
+<li>
+不同的句子有不同的长度。 大多数句子短（例如，长度20-30），但是一些句子长（例如，长度&gt; 100），因此随机选择128个句子的小批量将具有许多短句子和很少长句子，结果，大部分句子minibatch中的计算被浪费了。 为了解决这个问题，我们提出了一个minibatch中的所有句子大致相同的长度，这是2x加速。
+</li>
+
+</ul>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.5">3.5</a> 并行
+</h2>
+<div class="Unindented">
+深度LSTM的C++实现使用单个GPU上一节中的配置，每秒处理大约1,700字的速度。这对于我们的目的来说太慢了，所以我们使用8-GPU机器来并行化我们的模型。 LSTM的每一层都在不同的GPU上执行，并在计算后立即将其激活传达给下一个GPU（或图层）。 我们的模型有4层LSTM，每层LSTM都位于单独的GPU上。 剩余的4个GPU用于并行化softmax，因此每个GPU负责乘以1000×20000矩阵。 由此产生的实现速度达到每秒6,300（包括英文和法文）的字数，小批量大小为128。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.6">3.6</a> 实验结果
+</h2>
+<div class="Unindented">
+我们使用BLEU评分[24]来评估翻译质量。 我们使用multi-bleu.pl1对经过校正的预测和基础事实进行了计算。 这种评估BELU得分的方法与[5]和[2]一致，并且再现了[33]的33.3得分。然而，如果我们评估[9]的艺术体系状态（其预测心思为downloadedfromstatmt.org\matrix）以这种方式，我们得到37.0，这大于报告的35.8reportedbystatmt.org\matrix。
+</div>
+<div class="Indented">
+结果列在表1和表2中。我们的最佳结果是通过随机初始化和小型随机顺序不同的LSTM集合获得的。 尽管LSTM集合的解码翻译并没有打破现有技术水平，但这是纯粹的神经翻译系统首次在大型MT任务上以基于短语的SMT基线优于其相当大的优势的词汇。 通过重新评估基线系统的1000个最佳列表，LSTM在先前技术状态的0.5BLEU点内。
+</div>
+<div class="Indented">
+<table>
+<tr>
+<td align="center" valign="top">
+Method
+</td>
+<td align="center" valign="top">
+test BLEU score (ntst14)
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Bahdanau et al. [2]
+</td>
+<td align="center" valign="top">
+28.45
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Baseline System [29]
+</td>
+<td align="center" valign="top">
+33.30
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Single forward LSTM, beam size 12
+</td>
+<td align="center" valign="top">
+26.17
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Single reversed LSTM, beam size 12
+</td>
+<td align="center" valign="top">
+30.59
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Ensemble of 5 reversed LSTMs, beam size 1
+</td>
+<td align="center" valign="top">
+33.00
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Ensemble of 2 reversed LSTMs, beam size 12
+</td>
+<td align="center" valign="top">
+33.27
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Ensemble of 5 reversed LSTMs, beam size 2
+</td>
+<td align="center" valign="top">
+34.50
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Ensemble of 5 reversed LSTMs, beam size 12
+</td>
+<td align="center" valign="top">
+34.81
+</td>
+
+</tr>
+
+</table>
+
+</div>
+<div class="Indented">
+表1：LSTM在WMT’14英语到法语测试集（ntst14）上的表现。 请注意，具有2号光束的5个LSTM的集合比具有12个光束的单个LSTM便宜。
+</div>
+<div class="Indented">
+<table>
+<tr>
+<td align="center" valign="top">
+Method
+</td>
+<td align="center" valign="top">
+test BLEU score (ntst14)
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Baseline System [29]
+</td>
+<td align="center" valign="top">
+33.30
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Cho et al. [5]
+</td>
+<td align="center" valign="top">
+34.54
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+State of the art [9]
+</td>
+<td align="center" valign="top">
+37.0
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Rescoring the baseline 1000-best with a single forward LSTM
+</td>
+<td align="center" valign="top">
+35.61
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Rescoring the baseline 1000-best with a single reversed LSTM
+</td>
+<td align="center" valign="top">
+35.85
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Rescoring the baseline 1000-best with an ensemble of 5 reversed LSTMs
+</td>
+<td align="center" valign="top">
+36.5
+</td>
+
+</tr>
+<tr>
+<td align="center" valign="top">
+Oracle Rescoring of the Baseline 1000-best lists
+</td>
+<td align="center" valign="top">
+~45
+</td>
+
+</tr>
+
+</table>
+
+</div>
+<div class="Indented">
+表2：在WMT’14 Englishto French测试集（ntst14）上使用神经网络和SMT系统的方法
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.7">3.7</a> 在长句子上的表现
+</h2>
+<div class="Unindented">
+我们惊讶地发现LSTM在长句中表现良好，这在图3中定量地显示出来。表3给出了几个长句及其翻译的例子。
+</div>
+<h2 class="Subsection">
+<a class="toc" name="toc-Subsection-3.8">3.8</a> 模型分析
+</h2>
+<div class="Unindented">
+我们模型的一个有吸引力的特征是它能够将一系列词汇转化为一个固定的维度向量。 图2显示了一些学习的表示。 该图清楚地表明，表示对词的顺序敏感，而对用主动语音替换主动语音相当不敏感。 二维投影使用PCA获得。
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-4">4</a> 相关工作
+</h1>
+<div class="Unindented">
+神经网络应用于机器翻译有大量的工作。 到目前为止，在MT任务中应用RNN-语言模型（RNNLM）[23]或前馈神经网络语言模型（NNLM）[3]的最简单和最有效的方法是重新编写一个强的n个最佳列表 MT基线[22]，可靠地提高翻译质量。
+</div>
+<div class="Indented">
+最近，研究人员开始研究如何将源语言信息纳入NNLM。 这项工作的例子包括Auli等人。[1]，他们将NNLM与输入句子的主题模型相结合，从而提高了重新评分的性能。 Devlin等人 [8]采用了类似的方法，但他们将NNLM并入MT系统的解码器中，并使用解码器的对齐信息为NNLM提供输入句子中最有用的单词。 他们的方法非常成功，并且在基线之后取得了很大的改进。
+</div>
+<div class="Indented">
+我们的工作与Kalchbrenner和Blunsom密切相关[18]，他们首先将输入语句映射到一个向量中，然后再回到一个句子，尽管他们使用卷积神经网络将句子映射到向量上，从而失去了单词的排序。与此相似，Cho等人。 [5]使用类似LSTM的RNN体系结构将语句映射到向量中并返回，尽管它们的主要焦点是将其神经网络集成到SMT系统中。 Bahdanau等人。 [2]也试图用神经网络直接翻译，这种神经网络使用注意机制来克服Cho等人所经历的长句的不良表现。 [5]并取得了令人鼓舞的成果。同样，Pouget-Abadie et al。 [26]试图解决Cho等人的记忆问题。 [5]通过翻译产生平滑翻译的源句子片断，这类似于基于短语的方法。我们怀疑他们可以通过简单地在逆向源语句上训练他们的网络来实现类似的改进。
+</div>
+<div class="Indented">
+端到端培训也是Hermann等人关注的焦点。 [12]，其模型代表前馈网络的输入和输出，并将它们映射到类似的空间点。 然而，他们的方法不能直接生成翻译：为了获得翻译，他们需要在预先计算的句子数据库中查找最接近的向量，或者重新定义句子。
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-5">5</a> 结论
+</h1>
+<div class="Unindented">
+在这项工作中，我们展示了一个词汇量有限的深层LSTM可以超越标准的基于SMT的系统，该系统在大型MT任务中的词汇量是无限的。 我们简单的基于LSTM的MT方法的成功表明，它应该很好地解决许多其他序列学习问题，只要他们有足够的训练数据。
+</div>
+<div class="Indented">
+我们对翻译源句中的单词所获得的改进程度感到惊讶。 我们的结论是，找到一个具有最大数量短期依赖性的问题编码非常重要，因为它们会使学习问题变得更加简单。 特别是，尽管我们无法针对非逆向翻译问题（如图1所示）训练标准RNN，但我们认为，当源句子被逆转时，标准RNN应易于训练（尽管我们没有通过实验验证）。
+</div>
+<div class="Indented">
+我们也对LSTM正确翻译非常长的句子的能力感到惊讶。 我们最初确信，由于记忆力有限，LSTM在长句中会失败，其他研究人员报告称长句的表现不佳，其模型与我们的类似[5,2,26]。 然而，对逆向数据集进行训练的LSTMs难以翻译冗长的句子。
+</div>
+<div class="Indented">
+最重要的是，我们证明了一个简单，直接和相对未优化的方法可以超越成熟的SMT系统，因此进一步的工作可能会导致更大的翻译准确性。 这些结果表明，我们的方法可能会在其他具有挑战性的序列问题上做得很好。
+</div>
+<h1 class="Section">
+<a class="toc" name="toc-Section-6">6</a> 感谢
+</h1>
+<div class="Unindented">
+We thank Samy Bengio, Jeff Dean, Matthieu Devin, Geoffrey Hinton, NalKalchbrenner, Thang Luong, Wolf-gang Macherey, Rajat Monga, Vincent Vanhoucke, Peng Xu, Wojciech Zaremba, and the Google Brain teamfor useful comments and discussions。
 </div>
 <a class="toc" name="References"></a><h1 class="biblio">
 References
 </h1>
 <p class="biblio">
-<span class="entry">[<a class="biblioentry" name="biblio-1">1</a>] </span>The lyx Tutorial,
+<span class="entry">[<a class="biblioentry" name="biblio-1">1</a>] </span>M. Auli, M. Galley, C. Quirk, and G. Zweig. Joint language and translation modeling with recurrentneural networks. InEMNLP, 2013.
 </p>
 
 </div>

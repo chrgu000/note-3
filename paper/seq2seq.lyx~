@@ -11,12 +11,12 @@
 \language_package default
 \inputencoding auto
 \fontencoding global
-\font_roman "default" "default"
-\font_sans "default" "default"
+\font_roman "default" "SimSun"
+\font_sans "default" "SimSun"
 \font_typewriter "default" "default"
 \font_math "auto" "auto"
 \font_default_family default
-\use_non_tex_fonts false
+\use_non_tex_fonts true
 \font_sc false
 \font_osf false
 \font_sf_scale 100 100
@@ -63,7 +63,7 @@
 \papersides 1
 \paperpagestyle default
 \tracking_changes false
-\output_changes false
+\output_changes true
 \html_math_output 0
 \html_css_as_file 0
 \html_be_strict false
@@ -129,7 +129,7 @@ LSTM本质上是一个递归的神经网络语言模型[28,23,30]，除了它是
 \end_layout
 
 \begin_layout Standard
-令人惊讶的是，尽管最近有其他研究人员使用相关体系结构[26]，但lstm并没有遭受很长的句子。我们能够在长句中表现得很好，因为翻译源句子中的单词顺序，而不是训练
+令人惊讶的是，尽管最近有其他研究人员使用相关体系结构[26]，但LSTM并没有遭受很长的句子。我们能够在长句中表现得很好，因为翻译源句子中的单词顺序，而不是训练
 和测试集中的目标句子。通过这样做，我们引入了许多使得优化问题更简单的短期依赖性（参见第2节和第3.3节）。因此，sgd可以学习那些对长句没有困难的词典。翻译源句中
 单词的简单诀窍是这项工作的关键技术贡献之一。
 \end_layout
@@ -144,7 +144,7 @@ LSTM的一个有用属性是它学习将可变长度的输入句子映射为固�
 \end_layout
 
 \begin_layout Standard
-递归神经网络（rnn）[31,28]是前馈神经网络对序列的自然泛化。给定输入序列（x1，...，xt）， 标准rnn通过迭代以下等式来计算输出序列（y1，...，yt）：
+递归神经网络（RNN）[31,28]是前馈神经网络对序列的自然泛化。给定输入序列（x1，...，xt）， 标准RNN通过迭代以下等式来计算输出序列（y1，...，yt）：
 \begin_inset Formula 
 \[
 h_{t}=sigm\left(W^{hx}x_{t}+W^{hh}h_{t-1}\right)
@@ -164,13 +164,35 @@ y_{t}=W^{yh}h_{t}
 \end_layout
 
 \begin_layout Standard
-只要提前知道输出之间的对齐，rnn就可以轻松地将序列映射到序列。然而，对于复杂和非单调关系的 输入和输出序列长度不同的问题，还不清楚如何解决。
+只要提前知道输出之间的对齐，RNN就可以轻松地将序列映射到序列。然而，对于复杂和非单调关系的 输入和输出序列长度不同的问题，还不清楚如何解决。
 \end_layout
 
 \begin_layout Standard
-一个简单的通用序列学习策略是将输入序列映射到一个固定大小的载体上，然后用另一个rnn将载体映射到目标序列（Cho等人[5]也采用了这种方法）。尽管原则上它可以工
-作，因为rnn提供了所有的相关信息，但由于长期的相关性[14，4]（图1）[16,15]，难以训练rnns。然而，长时间的短期记忆（lstm）[16]已知可以学
-习长时间的时间依赖性问题，所以在这种情况下，lstm可能会成功。
+一个简单的通用序列学习策略是将输入序列映射到一个固定大小的载体上，然后用另一个RNN将载体映射到目标序列（Cho等人[5]也采用了这种方法）。尽管原则上它可以工
+作，因为RNN提供了所有的相关信息，但由于长期的相关性[14，4]（图1）[16,15]，难以训练RNNs。然而，长时间的短期记忆（LSTM）[16]已知可以学
+习长时间的时间依赖性问题，所以在这种情况下，LSTM可能会成功。
+\end_layout
+
+\begin_layout Standard
+lstm的目标是估计条件概率p（y1，...，yt'| x1，...，xt），其中（x1，...，xt）是输入序列，并且y1, .
+ .
+ .
+ , yT′是它的相应输出序列，其长度可能不同于T。lstm通过首先获得由lstm的最后一个隐藏状态给出的输入序列（x1，...，xt）的固定维数表示，然后计算y1,
+ .
+ .
+ .
+ , yT′的概率，来计算该条件概率。y1, .
+ .
+ .
+ , yT′具有标准的lstm-lm公式，其初始隐藏状态被设置为表示x1，...，xt
+\begin_inset Formula 
+\[
+p\left(y_{1},...,y_{T^{'}}|x_{1},...,x_{T}\right)=\prod_{t=1}^{T^{'}}p\left(y_{t}|v,y_{1},...,y_{t-1}\right)
+\]
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Bibliography
