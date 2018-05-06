@@ -112,24 +112,19 @@
 \end_layout
 
 \begin_layout Standard
-基于深度学习技术的神经翻译技术（NMT）最大的优点在于：
+Seq2Seq 于 2013年、2014
+\begin_inset CommandInset citation
+LatexCommand cite
+key "key-4"
+
+\end_inset
+
+ 年被多位学者共同提出，在机器翻译任务中取得了非常显著的效果，热门应用主要集中在机器翻译，文本摘要，对话生成。
 \end_layout
 
 \begin_layout Standard
-1、采用一种端到端（end-to-end）的结构，不在需要人为的去抽取特征；
-\end_layout
-
-\begin_layout Standard
-2、网络结构设计简单，不需要进行词语切分、词语对齐、句法树设计等复杂的设计工作。同时，这一方法的缺点也很明显：
-\end_layout
-
-\begin_layout Standard
-1、可解释性差，以seq2seq为例，很难解释和理解隐层输出，即encoder输出具体的物理意义；
-\end_layout
-
-\begin_layout Standard
-2、训练复杂度高，耗时耗力。深度学习训练样本量往往多大亿计，训练一个模型需要专门得GPU集群，花费几天甚至一周时间才能得出一个结果，模型的迭代更新非常慢。虽然N
-MT有它的不足，但总的来说还是利远远大于弊
+还有一些有趣的应用如：诗词生成，生成 commit message，生成代码补全，从web页面图片中生成对应html代码和从公式图片中生成latex代码，故事风
+格改写等。
 \end_layout
 
 \begin_layout Standard
@@ -173,7 +168,7 @@ key "key-3"
 以上三方面是最前沿的研究进展，而本课题的研究内容主要参考文献
 \begin_inset CommandInset citation
 LatexCommand cite
-key "key-4"
+key "key-4,key-5"
 
 \end_inset
 

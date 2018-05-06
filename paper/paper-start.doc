@@ -1,6 +1,7 @@
 <html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=utf-8" ><title></title><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<<<<<<< HEAD
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
@@ -9,6 +10,16 @@
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+=======
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
@@ -33,7 +44,11 @@
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<<<<<<< HEAD
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+=======
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  QFormat="true"  Name="caption" ></w:LsdException>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
@@ -64,7 +79,11 @@
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<<<<<<< HEAD
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Default Paragraph Font" ></w:LsdException>
+=======
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  Name="Default Paragraph Font" ></w:LsdException>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
@@ -102,7 +121,11 @@
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<<<<<<< HEAD
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+=======
+<w:LsdException Locked="false"  Priority="0"  UnhideWhenUsed="false"  QFormat="true"  Name="Normal Table" ></w:LsdException>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Table Simple 1" ></w:LsdException>
@@ -164,6 +187,7 @@
 <w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid" ></w:LsdException>
+<<<<<<< HEAD
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
@@ -248,6 +272,92 @@
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
 <w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+=======
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="60"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="61"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="62"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="63"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="64"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="65"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="66"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="67"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="68"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="69"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="70"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="71"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="72"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="73"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 </w:LatentStyles></xml><![endif]--><style>
 @font-face{
 font-family:"Times New Roman";
@@ -258,10 +368,48 @@ font-family:"宋体";
 }
 
 @font-face{
+<<<<<<< HEAD
+=======
+font-family:"SimSun";
+}
+
+@font-face{
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 font-family:"Wingdings";
 }
 
 @font-face{
+<<<<<<< HEAD
+=======
+font-family:"monospace";
+}
+
+@font-face{
+font-family:"Lucida Blackletter";
+}
+
+@font-face{
+font-family:"sans-serif";
+}
+
+@font-face{
+font-family:"serif";
+}
+
+@font-face{
+font-family:"DejaVu Serif";
+}
+
+@font-face{
+font-family:"Blackboard";
+}
+
+@font-face{
+font-family:"Monotype Corsiva";
+}
+
+@font-face{
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 font-family:"Calibri";
 }
 
@@ -345,6 +493,7 @@ mso-level-tab-stop:102.0000pt;
 mso-level-number-position:left;
 margin-left:102.0000pt;text-indent:-18.0000pt;font-family:'Times New Roman';}
 
+<<<<<<< HEAD
 @list l10:level1{
 mso-level-number-format:bullet;
 mso-level-suffix:tab;
@@ -1115,11 +1264,554 @@ font-size:18.0000pt;
 
 p.NewStyle19{
 mso-style-name:"h3 Char Char";
+=======
+p.MsoNormal{
+mso-style-name:Normal;
+mso-style-parent:"";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+}
+
+span.16{
+font-family:'Times New Roman';
+color:rgb(0,48,192);
+}
+
+span.17{
+font-family:'Times New Roman';
+color:rgb(128,128,128);
+}
+
+span.18{
+font-family:'Times New Roman';
+}
+
+span.19{
+font-family:'Times New Roman';
+}
+
+span.20{
+font-family:'Times New Roman';
+}
+
+span.21{
+font-family:'Times New Roman';
+font-variant:small-caps;
+}
+
+span.22{
+font-family:'Times New Roman';
+}
+
+span.23{
+font-family:'Times New Roman';
+}
+
+span.24{
+font-family:monospace;
+}
+
+span.25{
+font-family:'Times New Roman';
+font-style:normal;
+}
+
+span.26{
+font-family:'Times New Roman';
+}
+
+span.27{
+font-family:'Times New Roman';
+background:rgb(240,240,240);
+mso-shading:rgb(240,240,240);
+}
+
+span.28{
+font-family:'Times New Roman';
+}
+
+span.29{
+font-family:'Times New Roman';
+}
+
+span.30{
+font-family:'Times New Roman';
+font-variant:small-caps;
+}
+
+span.31{
+font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+}
+
+span.32{
+font-family:'Times New Roman';
+color:rgb(192,0,192);
+}
+
+span.33{
+font-family:'Times New Roman';
+color:rgb(0,128,128);
+}
+
+span.34{
+font-family:'Times New Roman';
+font-style:normal;
+}
+
+span.35{
+font-family:'Times New Roman';
+}
+
+span.36{
+font-family:'Times New Roman';
+}
+
+span.37{
+font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+}
+
+span.38{
+font-family:'Times New Roman';
+}
+
+span.39{
+font-family:'Times New Roman';
+color:rgb(0,48,192);
+font-size:8.0000pt;
+}
+
+span.40{
+font-family:'Times New Roman';
+}
+
+span.41{
+font-family:'Times New Roman';
+background:rgb(240,240,240);
+mso-shading:rgb(240,240,240);
+}
+
+span.42{
+font-family:'Times New Roman';
+font-size:12.5000pt;
+}
+
+span.43{
+font-family:'Times New Roman';
+font-size:9.5000pt;
+}
+
+span.44{
+font-family:'Times New Roman';
+font-size:9.5000pt;
+}
+
+span.45{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+span.46{
+font-family:'Times New Roman';
+color:rgb(255,255,255);
+}
+
+span.47{
+font-family:'Lucida Blackletter';
+}
+
+span.48{
+font-family:'Times New Roman';
+}
+
+span.49{
+font-family:sans-serif;
+font-style:normal;
+}
+
+span.50{
+font-family:'Times New Roman';
+font-style:italic;
+}
+
+span.51{
+font-family:'Times New Roman';
+color:rgb(0,0,192);
+}
+
+span.52{
+font-family:sans-serif;
+}
+
+span.53{
+font-family:'Times New Roman';
+}
+
+span.54{
+font-family:'Times New Roman';
+font-size:15.0000pt;
+}
+
+span.55{
+font-family:'Times New Roman';
+}
+
+span.56{
+font-family:'Times New Roman';
+}
+
+span.57{
+font-family:'Times New Roman';
+font-size:8.0000pt;
+}
+
+span.58{
+font-family:'Times New Roman';
+font-style:italic;
+}
+
+span.59{
+font-family:'Times New Roman';
+background:rgb(255,240,240);
+mso-shading:rgb(255,240,240);
+}
+
+span.60{
+font-family:'Times New Roman';
+}
+
+span.61{
+font-family:'Times New Roman';
+}
+
+span.62{
+font-family:'Times New Roman';
+}
+
+span.63{
+font-family:'Times New Roman';
+font-weight:normal;
+font-size:12.0000pt;
+background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);
+}
+
+span.64{
+font-family:'Times New Roman';
+}
+
+span.65{
+font-family:'Times New Roman';
+}
+
+span.66{
+font-family:'Times New Roman';
+color:rgb(0,192,192);
+}
+
+span.67{
+font-family:'Times New Roman';
+color:rgb(192,192,0);
+}
+
+span.68{
+font-family:'Times New Roman';
+}
+
+span.69{
+font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+}
+
+span.70{
+font-family:'Times New Roman';
+color:rgb(128,0,0);
+}
+
+span.71{
+font-family:'Times New Roman';
+}
+
+span.72{
+font-family:'Times New Roman';
+}
+
+span.73{
+font-family:'Times New Roman';
+background:rgb(240,240,240);
+mso-shading:rgb(240,240,240);
+}
+
+span.74{
+font-family:serif;
+font-style:normal;
+}
+
+span.75{
+font-family:'Times New Roman';
+font-size:18.0000pt;
+}
+
+span.76{
+font-family:'Times New Roman';
+}
+
+span.77{
+font-family:'Times New Roman';
+}
+
+span.78{
+font-family:'Times New Roman';
+}
+
+span.79{
+font-family:'Times New Roman';
+}
+
+span.80{
+font-family:'Times New Roman';
+font-size:21.0000pt;
+}
+
+span.81{
+font-family:'Times New Roman';
+}
+
+span.82{
+font-family:'Times New Roman';
+color:rgb(0,192,0);
+}
+
+span.83{
+font-family:'Times New Roman';
+}
+
+span.84{
+font-family:'Times New Roman';
+color:rgb(0,48,192);
+}
+
+span.85{
+font-family:'Times New Roman';
+}
+
+span.86{
+font-family:'Times New Roman';
+font-weight:normal;
+font-size:12.0000pt;
+background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);
+}
+
+span.87{
+font-family:'Times New Roman';
+}
+
+span.88{
+font-family:'Times New Roman';
+color:rgb(96,48,144);
+}
+
+span.89{
+font-family:'Times New Roman';
+font-weight:normal;
+font-size:12.0000pt;
+background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);
+}
+
+span.90{
+font-family:'Times New Roman';
+}
+
+span.91{
+font-family:'Times New Roman';
+}
+
+span.92{
+font-family:'DejaVu Serif';
+}
+
+span.93{
+font-family:'Times New Roman';
+font-size:18.0000pt;
+}
+
+span.94{
+font-family:'Times New Roman';
+font-size:24.0000pt;
+}
+
+span.95{
+font-family:'Times New Roman';
+}
+
+span.96{
+font-family:serif;
+font-style:normal;
+}
+
+span.97{
+font-family:'Times New Roman';
+}
+
+span.98{
+font-family:'Times New Roman';
+font-style:normal;
+}
+
+span.99{
+font-family:'Times New Roman';
+}
+
+span.100{
+font-family:'Times New Roman';
+}
+
+span.101{
+font-family:'Times New Roman';
+}
+
+span.102{
+font-family:Blackboard;
+}
+
+span.103{
+font-family:'Times New Roman';
+}
+
+span.104{
+font-family:'Times New Roman';
+color:rgb(192,0,0);
+}
+
+span.105{
+font-family:'Monotype Corsiva';
+font-style:italic;
+}
+
+span.106{
+font-family:'Times New Roman';
+}
+
+span.107{
+font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+}
+
+span.108{
+font-family:'Times New Roman';
+font-weight:bold;
+}
+
+span.109{
+font-family:'Times New Roman';
+color:rgb(0,48,192);
+font-size:8.0000pt;
+}
+
+span.110{
+font-family:sans-serif;
+font-style:normal;
+}
+
+span.111{
+font-family:'Times New Roman';
+}
+
+span.112{
+font-family:'Times New Roman';
+font-style:normal;
+}
+
+span.113{
+font-family:'Times New Roman';
+font-size:8.0000pt;
+}
+
+span.114{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+}
+
+span.115{
+font-family:'Times New Roman';
+}
+
+span.116{
+font-family:'Times New Roman';
+font-weight:normal;
+font-size:12.0000pt;
+background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);
+}
+
+span.117{
+font-family:'Times New Roman';
+}
+
+span.118{
+font-family:'Times New Roman';
+}
+
+span.119{
+font-family:'Times New Roman';
+color:rgb(255,255,255);
+}
+
+span.120{
+font-family:'Times New Roman';
+}
+
+span.121{
+font-family:'Times New Roman';
+}
+
+span.122{
+font-family:'Times New Roman';
+}
+
+span.123{
+font-family:'Times New Roman';
+}
+
+span.124{
+font-family:'Times New Roman';
+color:rgb(255,0,0);
+text-decoration:line-through;
+}
+
+span.125{
+font-family:'Times New Roman';
+}
+
+p.NewStyle126{
+mso-style-name:"h4 Char";
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 margin-top:5.0000pt;
 margin-bottom:5.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
 text-align:left;
+<<<<<<< HEAD
 font-family:宋体;
 font-weight:bold;
 font-size:13.5000pt;
@@ -1191,11 +1883,88 @@ font-size:12.0000pt;
 
 p.NewStyle25{
 mso-style-name:"h1 Char";
+=======
+font-family:SimSun;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+p.NewStyle127{
+mso-style-name:abstract-message;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+p.NewStyle128{
+mso-style-name:limit;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle129{
+mso-style-name:printindex1;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:8.0000pt;
+}
+
+p.NewStyle130{
+mso-style-name:formula1;
+margin-top:12.6000pt;
+margin-right:0.0000pt;
+margin-bottom:12.6000pt;
+margin-left:0.0000pt;
+text-align:center;
+font-family:'DejaVu Serif';
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"Normal \(Web\)";
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle132{
+mso-style-name:align-left;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle133{
+mso-style-name:"h6 Char";
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 margin-top:5.0000pt;
 margin-bottom:5.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
 text-align:left;
+<<<<<<< HEAD
 font-family:宋体;
 font-weight:bold;
 font-size:24.0000pt;
@@ -1203,17 +1972,30 @@ mso-font-kerning:22.0000pt;
 }
 
 p.NewStyle26{
+=======
+font-family:SimSun;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+p.NewStyle134{
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 mso-style-name:"h3 Char";
 margin-top:5.0000pt;
 margin-bottom:5.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
 text-align:left;
+<<<<<<< HEAD
 font-family:宋体;
+=======
+font-family:SimSun;
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 font-weight:bold;
 font-size:13.5000pt;
 }
 
+<<<<<<< HEAD
 p.NewStyle27{
 mso-style-name:"h4 Char Char";
 margin-top:5.0000pt;
@@ -1228,11 +2010,27 @@ font-size:12.0000pt;
 
 p.NewStyle28{
 mso-style-name:"h6 Char";
+=======
+p.NewStyle135{
+mso-style-name:align-l;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle136{
+mso-style-name:"h5 Char";
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 margin-top:5.0000pt;
 margin-bottom:5.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
 text-align:left;
+<<<<<<< HEAD
 font-family:宋体;
 font-weight:bold;
 font-size:7.5000pt;
@@ -1252,11 +2050,83 @@ font-size:10.0000pt;
 
 p.NewStyle30{
 mso-style-name:"h5 Char Char";
+=======
+font-family:SimSun;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+p.NewStyle137{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle138{
+mso-style-name:script;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+line-height:150%;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle139{
+mso-style-name:align-c;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle140{
+mso-style-name:align-r;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:right;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle141{
+mso-style-name:hoverfoot1;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+font-size:12.0000pt;
+}
+
+p.NewStyle142{
+mso-style-name:"h2 Char";
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 margin-top:5.0000pt;
 margin-bottom:5.0000pt;
 mso-margin-top-alt:auto;
 mso-margin-bottom-alt:auto;
 text-align:left;
+<<<<<<< HEAD
 font-family:宋体;
 font-weight:bold;
 font-size:10.0000pt;
@@ -1280,6 +2150,106 @@ margin:0pt;
 margin-bottom:.0001pt;
 text-align:left;
 font-family:宋体;
+=======
+line-height:14.7000pt;
+font-family:SimSun;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+p.NewStyle143{
+mso-style-name:"pre Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+padding:0pt 0pt 0pt 0pt ;
+text-align:left;
+line-height:15.7500pt;
+font-family:monospace;
+font-size:12.0000pt;
+}
+
+p.NewStyle144{
+mso-style-name:fullfraction;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:center;
+vertical-align:middle;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle145{
+mso-style-name:"h1 Char";
+margin-top:10.5000pt;
+margin-bottom:5.0000pt;
+mso-margin-bottom-alt:auto;
+text-align:left;
+line-height:15.7500pt;
+font-family:SimSun;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+p.NewStyle146{
+mso-style-name:align-center;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:center;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle147{
+mso-style-name:align-right;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:right;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:12.0000pt;
+}
+
+p.NewStyle148{
+mso-style-name:foot;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+font-size:12.0000pt;
+}
+
+p.NewStyle149{
+mso-style-name:fraction;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+font-size:9.5000pt;
+}
+
+p.NewStyle150{
+mso-style-name:dir;
+margin:0pt;
+margin-bottom:.0001pt;
+text-align:left;
+font-family:Calibri;
+mso-fareast-font-family:SimSun;
+mso-bidi-font-family:'Times New Roman';
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 font-size:12.0000pt;
 }
 
@@ -1314,6 +2284,7 @@ mso-ansi-language:#0400;
 mso-fareast-language:#0400;
 mso-bidi-language:#0400;
 }
+<<<<<<< HEAD
 
 table.NewStyle33{
 mso-style-name:"Table Normal Char";
@@ -1330,8 +2301,14 @@ mso-ansi-language:#0400;
 mso-fareast-language:#0400;
 mso-bidi-language:#0400;
 }
+=======
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
 @page{mso-page-border-surround-header:no;
 	mso-page-border-surround-footer:no;}@page Section0{
 size:595.3500pt 841.9500pt;
 }
+<<<<<<< HEAD
 div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >基于seq2seq的聊天机器人算法研究&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="toc-Section-1" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >1&#8195;题目背景和意义&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >本文论文题目：基于seq2seq的聊天机器人算法研究&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >选题的背景：社近年来，聊天机器人受到了学术界和工业界的广泛关注。一方面，聊天机器人是图灵测试的一种实现方式，而图灵测试是人工智能领域王冠上的明珠；另一方面，微软推出了基于情感计算的聊天机器人小冰，百度推出了用于交互式搜索的聊天机器人小度，进而推动了聊天机器人产品化的发展。聊天机器人系统可以看作是机器人产业与&#8220;互联网+&#8221;的结合，符合国家的科研及产业化发展方向。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >选题的意义：聊天机器人是未来各种服务的入口，尤其是移动端APP应用及可穿戴设备场景下提供各种服务的服务入口，这类似于Web端搜索引擎的入口作用。将来很可能通过语音助手绕过目前的很多APP直接提供各种服务，比如查询天气、定航班、订餐、智能家居的设备控制、车载设备的语音控制等等，目前大多采用独立APP形式来提供服务，而将来很多以APP形式存在的应用很可能会消失不见，直接隐身到语音助手背后。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >题目理论研究价值或运用价值：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >聊天机器人作为未来各种应用服务的入口，其市场影响力毫无疑问是巨大的，随着物联网的发展，全球将会出现上百亿的设备，深度学习所赋予的智能将使得设备和应用更具竞争力和市场占有率。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="toc-Section-2" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >2&#8195;国内外研究现状&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >基于深度学习技术的神经翻译技术（NMT）最大的优点在于：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >1、采用一种端到端（end-to-end）的结构，不在需要人为的去抽取特征；&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2、网络结构设计简单，不需要进行词语切分、词语对齐、句法树设计等复杂的设计工作。同时，这一方法的缺点也很明显：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >1、可解释性差，以seq2seq为例，很难解释和理解隐层输出，即encoder输出具体的物理意义；&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2、训练复杂度高，耗时耗力。深度学习训练样本量往往多大亿计，训练一个模型需要专门得GPU集群，花费几天甚至一周时间才能得出一个结果，模型的迭代更新非常慢。虽然NMT有它的不足，但总的来说还是利远远大于弊&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >现在研究关于语言交互的bot有三个主要方面：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >一方面人在主攻对话系统，微软的paper比较多，例如文献[<a name="cite-1" ></a></span><span><a href="#biblio-1" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >1</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >另一拨人主要在做QA，或者QA相关的集成，这部分亚马逊相关的比较多，alexa&nbsp;prize相关的很多文章&nbsp;都有这样的感觉，例如文献[<a name="cite-2" ></a></span><span><a href="#biblio-2" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >2</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >还有一拨人主要在做chatbot之类的，例如文献[<a name="cite-3" ></a></span><span><a href="#biblio-3" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >3</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >以上三方面是最前沿的研究进展，而本课题的研究内容主要参考文献[<a name="cite-4" ></a></span><span><a href="#biblio-4" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >4</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]，基于sequence&nbsp;to&nbsp;sequence生成模型。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="toc-Section-3" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >3&#8195;主要内容&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=NewStyle18  style="mso-pagination:widow-orphan;" ><a name="toc-Subsection-3.1" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" >3.1&#8195;主要内容：&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >在文献[</span><span><a href="#biblio-4" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >4</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]中，主要任务是基于WMT-14数据集做的英语到法语的翻译，这为之后的基于深度学习的Google翻译提供了理论基础。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >LSTM模型：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="757"  height="254"  src="paper-start.files/paper-start1416.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >LSTM的目标是估计条件概率p（y1，...，yt&#8217;|&nbsp;x1，...，xt），其中（x1，...，xt）是输入序列，并且y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;是它的相应输出序列，其长度可能不同于T。LSTM通过首先获得由LSTM的最后一个隐藏状态给出的输入序列（x1，...，xt）的固定维数表示，然后计算y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;的概率，来计算该条件概率。y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;具有标准的LSTM-lm公式，其初始隐藏状态被设置为表示x1，...，xt</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >p</span></i><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >(</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >y</span></i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >1</span></sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >y</span></i><i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >T</span></sub></i><sup><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:super;" >&#8217;</span></sup><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >|</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >x</span></i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >1</span></sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >x</span></i><i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >T</span></sub></i><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >)&#8287;=&#8287;&#8719;</span><i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >t</span></sub></i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >&#8287;=&#8287;1</span></sub><i><sup><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:super;" >T</span></sup></i><sup><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:super;" >&#8217;</span></sup><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >p</span></i><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >(</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >y</span></i><i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >t</span></sub></i><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >|</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >v</span></i><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >y</span></i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >1</span></sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >y</span></i><i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-style:italic;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >t</span></sub></i><sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;vertical-align:sub;" >&#8287;&#8722;&#8287;1</span></sub><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >)&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >在该等式中，词汇表中的每个词都用softmax表示每个p（yt&nbsp;|&nbsp;v，y1，...，yt-1）分布。&nbsp;我们使用Graves&nbsp;[10]中的LSTM公式。请注意，我们需要每个句子以特殊的句尾符号&#8220;&#60;EOS&#62;&#8221;结尾，这使模型能够定义在所有可能长度的序列上的分布。总体方案如图1所示，其中所示的LSTM计算&#8220;a&#8221;，&#8220;b&#8221;，&#8220;c&#8221;，&#8220;&#60;EOS&#62;&#8221;的表示，然后用这个表示来计算&#8220;w&#8221;，&#8220;x&#8221;&nbsp;&#8220;y&#8221;，&#8220;z&#8221;，&#8220;&#60;EOS&#62;&#8221;。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >神经网络的端到端训练的进展已经在许多领域取得了显着的进步，如语音识别，计算机视觉和语言处理。最近的研究表明神经网络不仅可以做简单分类，还可以用来绘制复杂&nbsp;结构到其他复杂结构。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >文献[<a name="cite-5" ></a></span><span><a href="#biblio-5" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >5</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]则是在文献[</span><span><a href="#biblio-4" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >4</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]的基础上做的会话模型。其优势在于它可以进行端对端培训，因此需要的手工规则少得多。模型可以从领域特定数据集中提取知识，也可以从电影字幕的大型，嘈杂和普通的主要数据集中提取知识。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >文献[</span><span><a href="#biblio-5" ><u><span class="17"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);text-decoration:underline;text-underline:single;font-size:12.0000pt;" >5</span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >]主要在2个数据集上进行了测试，分别是IT帮助台故障诊断数据集和开放域电影抄本数据集。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >实验结果如下：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >对话1：VPN问题&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >描述问题:&nbsp;我访问vpn遇到问题&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="450"  height="832"  src="paper-start.files/paper-start2408.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >以上的结果显示机器人很好地解决了客户的问题。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >还有一个有意思的实验是基于常识的：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="523"  height="832"  src="paper-start.files/paper-start2569.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >机器人对于哲学和道德问题也有一定的见解（数据集支持）&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="686"  height="651"  src="paper-start.files/paper-start2715.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="832"  height="1191"  src="paper-start.files/paper-start2833.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >当然，有些问题也会出错：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="594"  height="248"  src="paper-start.files/paper-start2965.png" ></span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="toc-Section-4" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >4&#8195;设计方法&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >以上的结果是令人鼓舞的，基于以上论文的学习，接下来的工作内容如下：&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle18  style="mso-pagination:widow-orphan;" ><a name="toc-Subsection-4.1" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" >4.1&#8195;准备数据&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >中文电影对白语料或保险行业问答开放数据集&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >第一个语料噪音比较大，许多对白问答关系没有对应好，第二个语料由现实世界的用户提出，高质量的答案由具有深度领域知识的专业人士提供。&nbsp;问答语料是从原始英文数据翻译过来，未经其他处理的。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >时间充裕可以两个一起尝试。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle18  style="mso-pagination:widow-orphan;" ><a name="toc-Subsection-4.2" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" >4.2&#8195;建立模型&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >参考github开源模型，语言选择tensorflow&nbsp;或&nbsp;keras。其中重点理解LSTM和seq2seq模型。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle18  style="mso-pagination:widow-orphan;" ><a name="toc-Subsection-4.3" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" >4.3&#8195;训练&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >使用准备好的模型训练数据集。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle18  style="mso-pagination:widow-orphan;" ><a name="toc-Subsection-4.4" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" >4.4&#8195;预测&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >使用训练完成的模型生成答案并输出。时间充裕考虑把结果做出api形式供web或app调用。&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="toc-Section-5" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >5&#8195;进度计划&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><table class=NewStyle33  style="border-collapse:collapse;margin-left:7.8000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="font-family:宋体;mso-ascii-font-family:'Times New Roman';mso-hansi-font-family:Calibri;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >设计（论文）各阶段名称&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >起&nbsp;止&nbsp;日&nbsp;期&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >1&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >确定选题，阅读相关文献撰写文献综述，并翻译英文论文&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2017-1-1&#8212;2017-2-24&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >选择合适模型，选择数据集，测试数据，完成开题&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2017-2-25&#8212;2017-3-16&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >3&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >研究改进算法，测试代码，提升交互性，改进算法&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2017-3-16&#8212;2017-4-12&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >4&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >算法优化、系统测试&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2017-4-13&#8212;2017-5-20&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=13  valign=top  style="width:10.3000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >5&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=404  valign=top  style="width:303.1000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >整理资料、撰写论文、准备答辩&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=165  valign=top  style="width:124.2000pt;padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" >2017-5-21&#8212;2017-6-7&nbsp;</span><span style="font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=NewStyle25  style="margin-right:0.0000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;" ><a name="References" ></a><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" >References&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=NewStyle20  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" >[<a name="biblio-1" >1</a>]&nbsp;[1]Xiujun&nbsp;Li,&nbsp;End-to-End&nbsp;Task-Completion&nbsp;Neural&nbsp;Dialogue&nbsp;Systems,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle20  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" >[<a name="biblio-2" >2</a>]&nbsp;[2]Huiting&nbsp;Liu,&nbsp;RubyStar:&nbsp;A&nbsp;Non-Task-Oriented&nbsp;Mixture&nbsp;Model&nbsp;Dialog&nbsp;System,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle20  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" >[<a name="biblio-3" >3</a>]&nbsp;[3]Jiwei&nbsp;Li,&nbsp;Adversarial&nbsp;Learning&nbsp;for&nbsp;Neural&nbsp;Dialogue&nbsp;Generation,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle20  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" >[<a name="biblio-4" >4</a>]&nbsp;[4]I&nbsp;Sutskever,&nbsp;O&nbsp;Vinyals,&nbsp;QV&nbsp;Le.&nbsp;Sequence&nbsp;to&nbsp;Sequence&nbsp;Learning&nbsp;with&nbsp;Neural&nbsp;Networks&nbsp;-&nbsp;Advances&nbsp;in&nbsp;neural&nbsp;information&nbsp;Processing&nbsp;Systems&nbsp;27(NLPS&nbsp;2014),&nbsp;2014&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle20  style="margin-top:5.0000pt;margin-right:0.0000pt;margin-bottom:5.0000pt;margin-left:0.0000pt;mso-margin-top-alt:auto;mso-margin-bottom-alt:auto;mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" >[<a name="biblio-5" >5</a>]&nbsp;O&nbsp;Vinyals,&nbsp;Q&nbsp;Le&nbsp;-&nbsp;A&nbsp;Neural&nbsp;Conversational&nbsp;Model,&nbsp;-&nbsp;arXiv&nbsp;preprint&nbsp;arXiv:1506.05869,&nbsp;2015&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:宋体;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+=======
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=NewStyle145  align=center  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;text-align:center;line-height:15.7500pt;" ><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >基于seq2seq的聊天机器人算法研究&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Section-1" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1&#8195;题目背景和意义&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >本文论文题目：基于seq2seq的聊天机器人算法研究&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >选题的背景：社近年来，聊天机器人受到了学术界和工业界的广泛关注。一方面，聊天机器人是图灵测试的一种实现方式，而图灵测试是人工智能领域王冠上的明珠；另一方面，微软推出了基于情感计算的聊天机器人小冰，百度推出了用于交互式搜索的聊天机器人小度，进而推动了聊天机器人产品化的发展。聊天机器人系统可以看作是机器人产业与&#8220;互联网+&#8221;的结合，符合国家的科研及产业化发展方向。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >选题的意义：聊天机器人是未来各种服务的入口，尤其是移动端APP应用及可穿戴设备场景下提供各种服务的服务入口，这类似于Web端搜索引擎的入口作用。将来很可能通过语音助手绕过目前的很多APP直接提供各种服务，比如查询天气、定航班、订餐、智能家居的设备控制、车载设备的语音控制等等，目前大多采用独立APP形式来提供服务，而将来很多以APP形式存在的应用很可能会消失不见，直接隐身到语音助手背后。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >题目理论研究价值或运用价值：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >聊天机器人作为未来各种应用服务的入口，其市场影响力毫无疑问是巨大的，随着物联网的发展，全球将会出现上百亿的设备，深度学习所赋予的智能将使得设备和应用更具竞争力和市场占有率。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Section-2" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >2&#8195;国内外研究现状&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >基于深度学习技术的神经翻译技术（NMT）最大的优点在于：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1、采用一种端到端（end-to-end）的结构，不在需要人为的去抽取特征；&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >2、网络结构设计简单，不需要进行词语切分、词语对齐、句法树设计等复杂的设计工作。同时，这一方法的缺点也很明显：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1、可解释性差，以seq2seq为例，很难解释和理解隐层输出，即encoder输出具体的物理意义；&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >2、训练复杂度高，耗时耗力。深度学习训练样本量往往多大亿计，训练一个模型需要专门得GPU集群，花费几天甚至一周时间才能得出一个结果，模型的迭代更新非常慢。虽然NMT有它的不足，但总的来说还是利远远大于弊&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >现在研究关于语言交互的bot有三个主要方面：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >一方面人在主攻对话系统，微软的paper比较多，例如文献[<a name="cite-1" ></a></span><span><a href="#biblio-1" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >另一拨人主要在做QA，或者QA相关的集成，这部分亚马逊相关的比较多，alexa&nbsp;prize相关的很多文章&nbsp;都有这样的感觉，例如文献[<a name="cite-2" ></a></span><span><a href="#biblio-2" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >2</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >还有一拨人主要在做chatbot之类的，例如文献[<a name="cite-3" ></a></span><span><a href="#biblio-3" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >3</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >以上三方面是最前沿的研究进展，而本课题的研究内容主要参考文献[<a name="cite-4" ></a></span><span><a href="#biblio-4" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]，基于sequence&nbsp;to&nbsp;sequence生成模型。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Section-3" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >3&#8195;主要内容&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=NewStyle142  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Subsection-3.1" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >3.1&#8195;主要内容：&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >在文献[</span><span><a href="#biblio-4" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]中，主要任务是基于WMT-14数据集做的英语到法语的翻译，这为之后的基于深度学习的Google翻译提供了理论基础。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >LSTM模型：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="2310"  height="774"  src="paper-start.files/paper-start1398.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >LSTM的目标是估计条件概率p（y1，...，yt&#8217;|&nbsp;x1，...，xt），其中（x1，...，xt）是输入序列，并且y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;是它的相应输出序列，其长度可能不同于T。LSTM通过首先获得由LSTM的最后一个隐藏状态给出的输入序列（x1，...，xt）的固定维数表示，然后计算y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;的概率，来计算该条件概率。y1,&nbsp;.&nbsp;.&nbsp;.&nbsp;,&nbsp;yT&#8242;具有标准的LSTM-lm公式，其初始隐藏状态被设置为表示x1，...，xt</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="margin-top:12.6000pt;margin-right:0.0000pt;margin-bottom:12.6000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:center;line-height:15.7500pt;background:rgb(255,255,255);" ><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >p</span></i><span class="54"  style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:13.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >(</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >y</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >y</span></i><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >T</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8217;</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >|</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >x</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >x</span></i><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >T</span></i><span class="54"  style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:13.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >)</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8287;=&#8287;</span><span class="15"  style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8719;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >t</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8287;=&#8287;1</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >T</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8217;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >p</span></i><span class="54"  style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:13.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >(</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >y</span></i><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >t</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >|</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >v</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >y</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >1</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >,&#8287;...,&#8287;</span><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >y</span></i><i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);letter-spacing:0.0000pt;font-style:italic;font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >t</span></i><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:8.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&#8287;&#8722;&#8287;1</span><span class="54"  style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:13.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >)</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'DejaVu Serif';color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >在该等式中，词汇表中的每个词都用softmax表示每个p（yt&nbsp;|&nbsp;v，y1，...，yt-1）分布。&nbsp;我们使用Graves&nbsp;[10]中的LSTM公式。请注意，我们需要每个句子以特殊的句尾符号&#8220;&#60;EOS&#62;&#8221;结尾，这使模型能够定义在所有可能长度的序列上的分布。总体方案如图1所示，其中所示的LSTM计算&#8220;a&#8221;，&#8220;b&#8221;，&#8220;c&#8221;，&#8220;&#60;EOS&#62;&#8221;的表示，然后用这个表示来计算&#8220;w&#8221;，&#8220;x&#8221;&nbsp;&#8220;y&#8221;，&#8220;z&#8221;，&#8220;&#60;EOS&#62;&#8221;。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >神经网络的端到端训练的进展已经在许多领域取得了显着的进步，如语音识别，计算机视觉和语言处理。最近的研究表明神经网络不仅可以做简单分类，还可以用来绘制复杂&nbsp;结构到其他复杂结构。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >文献[<a name="cite-5" ></a></span><span><a href="#biblio-5" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >5</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]则是在文献[</span><span><a href="#biblio-4" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]的基础上做的会话模型。其优势在于它可以进行端对端培训，因此需要的手工规则少得多。模型可以从领域特定数据集中提取知识，也可以从电影字幕的大型，嘈杂和普通的主要数据集中提取知识。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >文献[</span><span><a href="#biblio-5" ><span class="16"  style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,48,192);font-size:10.5000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >5</span></a></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >]主要在2个数据集上进行了测试，分别是IT帮助台故障诊断数据集和开放域电影抄本数据集。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >实验结果如下：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >对话1：VPN问题&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >描述问题:&nbsp;我访问vpn遇到问题&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="1339"  height="2475"  src="paper-start.files/paper-start2372.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >以上的结果显示机器人很好地解决了客户的问题。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >还有一个有意思的实验是基于常识的：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="1211"  height="1929"  src="paper-start.files/paper-start2515.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >机器人对于哲学和道德问题也有一定的见解（数据集支持）&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="1201"  height="1140"  src="paper-start.files/paper-start2643.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="1456"  height="2085"  src="paper-start.files/paper-start2743.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >当然，有些问题也会出错：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span><img width="1040"  height="434"  src="paper-start.files/paper-start2857.png" ></span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Section-4" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4&#8195;设计方法&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >以上的结果是令人鼓舞的，基于以上论文的学习，接下来的工作内容如下：&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle142  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Subsection-4.1" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4.1&#8195;准备数据&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >中文电影对白语料或保险行业问答开放数据集&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >第一个语料噪音比较大，许多对白问答关系没有对应好，第二个语料由现实世界的用户提出，高质量的答案由具有深度领域知识的专业人士提供。&nbsp;问答语料是从原始英文数据翻译过来，未经其他处理的。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;text-indent:30.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >时间充裕可以两个一起尝试。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle142  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Subsection-4.2" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4.2&#8195;建立模型&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >参考github开源模型，语言选择tensorflow&nbsp;或&nbsp;keras。其中重点理解LSTM和seq2seq模型。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle142  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Subsection-4.3" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4.3&#8195;训练&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >使用准备好的模型训练数据集。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle142  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Subsection-4.4" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >4.4&#8195;预测&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></p><p class=MsoNormal  style="margin-top:0.0000pt;margin-right:0.0000pt;margin-bottom:0.0000pt;margin-left:0.0000pt;padding:0pt 0pt 0pt 0pt ;mso-pagination:widow-orphan;text-align:left;line-height:15.7500pt;background:rgb(255,255,255);" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >使用训练完成的模型生成答案并输出。时间充裕考虑把结果做出api形式供web或app调用。&nbsp;</span><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="toc-Section-5" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >5&#8195;进度计划&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><table class=MsoNormalTable  style="border-collapse:collapse;margin-left:-46.6000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:1.0000pt solid rgb(240,240,240);mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="text-align:center;" ><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p>&nbsp;</o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:1.0000pt solid rgb(240,240,240);mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >设计（论文）各阶段名称&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:1.0000pt solid rgb(240,240,240);mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >起&nbsp;止&nbsp;日&nbsp;期&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >1&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >确定选题，阅读相关文献撰写文献综述，并翻译英文论文&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2017-1-1&#8212;2017-2-24&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >选择合适模型，选择数据集，测试数据，完成开题&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2017-2-25&#8212;2017-3-16&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >3&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >研究改进算法，测试代码，提升交互性，改进算法&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2017-3-16&#8212;2017-4-12&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >4&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >算法优化、系统测试&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2017-4-13&#8212;2017-5-20&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td width=255  valign=top  style="width:109.6500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:1.0000pt solid rgb(240,240,240);mso-border-left-alt:0.2500pt solid rgb(240,240,240);border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >5&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=855  valign=top  style="width:366.6000pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >整理资料、撰写论文、准备答辩&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=481  valign=top  style="width:206.5500pt;padding:52.0000pt 52.0000pt 52.0000pt 52.0000pt ;border-left:none;;mso-border-left-alt:none;;border-right:1.0000pt solid rgb(240,240,240);mso-border-right-alt:0.2500pt solid rgb(240,240,240);border-top:none;;mso-border-top-alt:0.2500pt solid rgb(240,240,240);border-bottom:1.0000pt solid rgb(240,240,240);mso-border-bottom-alt:0.2500pt solid rgb(240,240,240);" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" >2017-5-21&#8212;2017-6-7&nbsp;</span><span style="font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=NewStyle145  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><a name="References" ></a><b><span style="mso-spacerun:'yes';font-family:SimSun;color:rgb(0,0,0);font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >References&nbsp;</span></b><b><span style="mso-spacerun:'yes';font-family:SimSun;font-weight:bold;font-size:24.0000pt;mso-font-kerning:22.0000pt;" ><o:p></o:p></span></b></p><p class=p  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >[<a name="biblio-1" >1</a>]&nbsp;[1]Xiujun&nbsp;Li,&nbsp;End-to-End&nbsp;Task-Completion&nbsp;Neural&nbsp;Dialogue&nbsp;Systems,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >[<a name="biblio-2" >2</a>]&nbsp;[2]Huiting&nbsp;Liu,&nbsp;RubyStar:&nbsp;A&nbsp;Non-Task-Oriented&nbsp;Mixture&nbsp;Model&nbsp;Dialog&nbsp;System,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >[<a name="biblio-3" >3</a>]&nbsp;[3]Jiwei&nbsp;Li,&nbsp;Adversarial&nbsp;Learning&nbsp;for&nbsp;Neural&nbsp;Dialogue&nbsp;Generation,&nbsp;2017&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >[<a name="biblio-4" >4</a>]&nbsp;[4]I&nbsp;Sutskever,&nbsp;O&nbsp;Vinyals,&nbsp;QV&nbsp;Le.&nbsp;Sequence&nbsp;to&nbsp;Sequence&nbsp;Learning&nbsp;with&nbsp;Neural&nbsp;Networks&nbsp;-&nbsp;Advances&nbsp;in&nbsp;neural&nbsp;information&nbsp;Processing&nbsp;Systems&nbsp;27(NLPS&nbsp;2014),&nbsp;2014&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="margin-top:4.3000pt;margin-right:0.0000pt;margin-bottom:4.3000pt;margin-left:0.0000pt;mso-pagination:widow-orphan;line-height:15.7500pt;" ><span style="mso-spacerun:'yes';font-family:sans-serif;color:rgb(0,0,0);font-size:10.5000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);mso-shading:rgb(255,255,255);" >[<a name="biblio-5" >5</a>]&nbsp;O&nbsp;Vinyals,&#160;Q&nbsp;Le&nbsp;-&nbsp;A&nbsp;Neural&nbsp;Conversational&nbsp;Model,&nbsp;-&nbsp;arXiv&nbsp;preprint&nbsp;arXiv:1506.05869,&nbsp;2015&nbsp;</span><span style="mso-spacerun:'yes';font-family:Calibri;mso-fareast-font-family:SimSun;mso-bidi-font-family:'Times New Roman';font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
+>>>>>>> f61618986abfba8f8e6f9ae0d555663982fe4d58
