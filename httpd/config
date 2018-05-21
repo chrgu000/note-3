@@ -1,0 +1,4 @@
+1，修改httpd.conf
+	去掉rewrite前面的注释
+	把AllowOverwrite None改为All
+2,添加.htaccess文件
